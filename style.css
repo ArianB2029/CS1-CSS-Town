@@ -25,7 +25,7 @@ body {
     height: 80px;
     position: absolute;
     top: 50%;
-    left: 500px;
+    left: 450px;
 }
 
 #roof-1 {
@@ -35,6 +35,49 @@ body {
     border-right: 50px solid transparent;
     border-bottom: 50px solid rgb(95, 37, 37);
 }
+
+#door-1 {
+    position: relative;
+    bottom: 30px;
+    left: 30px;
+    height: 60px;
+    width: 40px;
+}
+
+#tree-1 {
+    position: absolute;
+    top: 32.5%;
+    left: 300px;
+    height: 200px;
+    width: 150px;
+}
+
+#building-2 {
+    background: saddlebrown;
+    width: 100px;
+    height: 80px;
+    position: absolute;
+    top: 50%;
+    left: 150px;
+}
+
+#roof-2 {
+    position: relative;
+    bottom: 50px;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 50px solid rgb(95, 37, 37);
+}
+
+#door-2 {
+    position: relative;
+    bottom: 30px;
+    left: 30px;
+    height: 60px;
+    width: 40px;
+}
+
+
 
 
 
