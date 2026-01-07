@@ -21,15 +21,15 @@ body {
 
 #dock {
     position: absolute;
-    width: 25%;
+    width: 250px;
     top: 67.5%;
 }
 
 #boat {
     position: relative;
-    width: 20%;
+    width: 200px;
     top: 625px;
-    left: 225px;
+    left: 240px;
 }
 
 
@@ -123,8 +123,8 @@ body {
 #watertower {
     position: absolute;
     width: 300px;
-    top: 17.5%;
-    left: 60%;
+    top: 140px;
+    left: 525px;
 }
 
 
